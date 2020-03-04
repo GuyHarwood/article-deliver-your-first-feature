@@ -6,6 +6,7 @@
     "name": "Guy Harwood"
   },
   "scripts": {
+    "lint": "standard && tslint --project .",
     "startd": "NODE_ENV=development nodemon --watch src/**/* -e ts,tsx --exec ts-node ./src/index.ts"
   },
   "dependencies": {
@@ -25,6 +26,10 @@
     "@types/koa-router": "^7.4.0",
     "@types/node": "^13.7.7",
     "nodemon": "^2.0.2",
-    "ts-node": "^8.6.2"
+    "standard": "^14.3.1",
+    "ts-jest": "^25.2.1",
+    "ts-node": "^8.6.2",
+    "tslint-config-standard": "^9.0.0",
+    "typescript-tslint-plugin": "^0.5.5"
   }
 }
