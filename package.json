@@ -5,6 +5,9 @@
   "author": {
     "name": "Guy Harwood"
   },
+  "scripts": {
+    "start:dev": "node ."
+  },
   "dependencies": {
     "@types/node": "^13.7.7",
     "koa": "^2.11.0",
