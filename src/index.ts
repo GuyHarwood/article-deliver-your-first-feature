@@ -9,7 +9,7 @@ const router = new Router();
 
 // Hello world
 router.get("/", async (ctx, next) => {
-  ctx.body = { msg: "Hello world!" };
+  ctx.body = { msg: "Hello World!" };
   await next();
 });
 
