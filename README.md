@@ -6,6 +6,7 @@ Works through the strategy for end to end delivery of the first feature in a new
 - [TODO] Write feature ticket
 - [TODO] Write backlog items for each task below
 - [TODO] Create a basic web service in Node JS using typescript and Koa
+  - configure standard and tslint
 - [TODO] Write unit tests
 - [TODO] Write end to end tests
 - [TODO] Write performance tests

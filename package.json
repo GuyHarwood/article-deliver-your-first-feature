@@ -1,0 +1,18 @@
+{
+  "repository": {
+    "url": "git@github.com:GuyHarwood/article-deliver-your-first-feature.git"
+  },
+  "author": {
+    "name": "Guy Harwood"
+  },
+  "dependencies": {
+    "@types/node": "^13.7.7",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^8.0.8",
+    "tslint": "^6.0.0",
+    "typescript": "^3.8.3"
+  }
+}
